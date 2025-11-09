@@ -11,10 +11,9 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2021<br>
-📚 I'm currently learning microservices architecture and improving my skills with TypeScript, Next.js, and Ruby on Rails<br>
-🎯 Goals: build scalable, well-structured applications — and eventually launch my own full-stack product<br>
-🎲 Fun fact: I enjoy turning side projects into learning labs (like my Trello clone 🔧)
+📚 Currently focused on deepening my expertise in web application development, clean code practices, CI/CD pipelines, and DevOps culture.<br>
+🎯 Goal: build scalable, maintainable, and high-quality applications through solid architecture and modern engineering principles.<br>
+🎲 Fun fact: I often turn side projects into opportunities to test new technologies and development patterns.
 </p>
 
 ###
@@ -24,6 +23,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -38,11 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="nestjs logo"/>
 </div>
 
 ###
